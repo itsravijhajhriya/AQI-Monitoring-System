@@ -1,0 +1,20 @@
+# Arduino build files
+*.elf
+*.hex
+*.eep
+*.o
+*.a
+*.S
+*.d
+*.lss
+*.map
+*.srec
+*.sym
+
+# Arduino temporary files
+*~
+*.tmp
+*.bak
+
+# Local build directory
+build/
